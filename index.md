@@ -423,6 +423,8 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 {% comment %}
 SETUP
+Download the <a href = "https://raw.githubusercontent.com/lmcotter/workshop-template/gh-pages/data/SAFI_clean.csv">SAFI cleaned file </a>.
+
 
 Delete irrelevant sections from the setup instructions.  Each
 section is inside a 'div' without any classes to make the beginning
